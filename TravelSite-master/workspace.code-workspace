@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../FDSI104"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TravelSite-master"
+	}
+}
